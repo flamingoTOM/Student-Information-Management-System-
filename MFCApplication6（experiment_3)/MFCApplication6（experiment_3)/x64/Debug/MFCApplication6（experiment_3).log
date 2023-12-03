@@ -1,0 +1,6 @@
+﻿  MFCApplication6（experiment_3)Dlg.cpp
+E:\c++ code\MFCApplication6（experiment_3)\MFCApplication6（experiment_3)\MFCApplication6（experiment_3)Dlg.cpp(380,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\c++ code\MFCApplication6（experiment_3)\MFCApplication6（experiment_3)\MFCApplication6（experiment_3)Dlg.cpp(381,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\c++ code\MFCApplication6（experiment_3)\MFCApplication6（experiment_3)\MFCApplication6（experiment_3)Dlg.cpp(382,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\c++ code\MFCApplication6（experiment_3)\MFCApplication6（experiment_3)\MFCApplication6（experiment_3)Dlg.cpp(386,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  MFCApplication6（experiment_3).vcxproj -> E:\c++ code\MFCApplication6（experiment_3)\x64\Debug\MFCApplication6（experiment_3).exe
